@@ -44,7 +44,7 @@ A sleek, responsive, and stylish **Modern Calculator App** built with **HTML**, 
    ```
 2. **Navigate to the directory**:
    ```bash
-   cd calculator-app
+   cd modern-calculator
    ```
 3. **Open the project**:
    - Open `index.html` in your browser.
