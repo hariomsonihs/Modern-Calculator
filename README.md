@@ -1,40 +1,98 @@
-# 🧮 Modern Calculator App
+# 🔢 Modern Calculator App
 
-![Calculator Screenshot](https://github.com/hariomsonihs/Modern-Calculator/blob/main/calculator.jpeg)
+![Calculator Preview](https://github.com/hariomsonihs/Modern-Calculator/blob/main/calculator.jpeg)
 
-A sleek and responsive **Modern Calculator App** built with **HTML**, **CSS**, and **JavaScript**. Perfect for quick calculations on both desktop and mobile devices! ✨
-
----
-
-## 🚀 Features
-
-- **Basic Arithmetic Operations**: Addition, subtraction, multiplication, and division.
-- **Clear and Backspace Functions**: Easily clear the display or remove the last digit.
-- **Responsive Design**: Works flawlessly on all screen sizes.
-- **Modern UI**: Stylish design with gradients, shadows, and animations.
-- **Error Handling**: Displays "Error" for invalid calculations.
+A sleek, responsive, and stylish **Modern Calculator App** built with **HTML**, **CSS**, and **JavaScript**. Designed for smooth user interaction with a futuristic UI. 🚀
 
 ---
 
-## 🛠️ Technologies Used
+## ✨ Features
 
-- **HTML**: For structuring the calculator layout.
-- **CSS**: For styling and animations.
-- **JavaScript**: For handling calculations and user interactions.
-- **Google Fonts**: Used the **Digital-7** font for the calculator display.
-
----
-
-## 🎨 Design Highlights
-
-- **Gradients**: Beautiful gradient backgrounds for a modern look.
-- **Shadows**: Subtle shadows for a 3D effect.
-- **Animations**: Smooth animations for button clicks and display updates.
+✅ **Basic Arithmetic Operations** – Addition, subtraction, multiplication, and division.
+✅ **Clear & Backspace Functions** – Easily remove the last digit or reset calculations.
+✅ **Responsive Design** – Seamlessly adapts to desktops, tablets, and mobiles.
+✅ **Modern UI/UX** – Dark mode, gradients, glassmorphism, and elegant button animations.
+✅ **Keyboard Support** – Use your keyboard for faster input.
+✅ **Error Handling** – Displays 'Error' for invalid calculations.
 
 ---
 
-## 🖥️ How to Run the Project
+## 🛠️ Tech Stack
 
-1. **Clone the Repository**:
+🔹 **HTML** – Structure of the calculator.
+🔹 **CSS** – Stylish UI with flexbox and grid layout.
+🔹 **JavaScript** – Handles real-time calculations and user input.
+🔹 **Google Fonts** – "Digital-7" for a classic calculator feel.
+🔹 **FontAwesome** – Icons for a more aesthetic interface.
+
+---
+
+## 🎨 UI Design Highlights
+
+🎨 **Glassmorphism Effect** – A semi-transparent background with blur.
+🎨 **Soft Shadow & Neumorphism** – Enhances button aesthetics.
+🎨 **Gradient Backgrounds** – Smooth and futuristic look.
+🎨 **Smooth Animations** – Button press and screen update effects.
+
+---
+
+## 🚀 How to Run
+
+1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/calculator-app.git
+   git clone https://github.com/hariomsonihs/modern-calculator.git
+   ```
+2. **Navigate to the directory**:
+   ```bash
+   cd calculator-app
+   ```
+3. **Open the project**:
+   - Open `index.html` in your browser.
+   - Or use **Live Server** in VS Code.
+
+---
+
+## 🌍 Live Demo
+
+🔗 **[Try It Now](https://your-username.github.io/calculator-app)**
+
+---
+
+## 📸 Screenshots
+
+| Light Mode | Dark Mode |
+|------------|------------|
+| ![Light](https://github.com/hariomsonihs/Modern-Calculator/blob/main/calculator.jpeg) | ![Dark](https://github.com/hariomsonihs/Modern-Calculator/blob/main/calculator.jpeg) |
+
+---
+
+## 🤝 Contributing
+
+Want to improve this project? Contributions are welcome! 🚀
+
+1. **Fork** the repository.
+2. **Create** a new branch (`feature/your-feature`).
+3. **Commit** your changes (`git commit -m 'Added a cool feature'`).
+4. **Push** the branch (`git push origin feature/your-feature`).
+5. **Open** a pull request.
+
+---
+
+## 📜 License
+
+This project is **MIT Licensed**. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🙌 Acknowledgments
+
+💡 **Google Fonts** – "Digital-7" font for an authentic calculator display.  
+💡 **Font Awesome** – Icons for better UI.
+
+---
+
+## ⭐ Support
+
+If you like this project, don't forget to **star ⭐ the repository** and share it with others! 😊
+
+```
