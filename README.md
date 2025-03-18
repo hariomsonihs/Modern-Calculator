@@ -54,7 +54,7 @@ A sleek, responsive, and stylish **Modern Calculator App** built with **HTML**, 
 
 ## 🌍 Live Demo
 
-🔗 **[Try It Now](https://your-username.github.io/calculator-app)**
+🔗 **[Try It Now](https://modern-calculator-hariomsonihs.vercel.app/)**
 
 ---
 
