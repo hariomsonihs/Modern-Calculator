@@ -1,6 +1,6 @@
 # 🧮 Modern Calculator App
 
-![Calculator Screenshot](https://github.com/your-username/calculator-app/blob/main/calculator-screenshot.png)
+![Calculator Screenshot](https://github.com/hariomsonihs/Modern-Calculator/blob/main/calculator.jpeg)
 
 A sleek and responsive **Modern Calculator App** built with **HTML**, **CSS**, and **JavaScript**. Perfect for quick calculations on both desktop and mobile devices! ✨
 
