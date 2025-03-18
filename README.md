@@ -94,5 +94,3 @@ This project is **MIT Licensed**. See the [LICENSE](LICENSE) file for details.
 ## ⭐ Support
 
 If you like this project, don't forget to **star ⭐ the repository** and share it with others! 😊
-
-```
